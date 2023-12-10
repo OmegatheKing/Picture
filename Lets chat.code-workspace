@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/Visual Studio/Lets chat"
+		},
+		{
+			"path": "../../kwitter-20201210T113228Z-001/kwitter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lets chat"
+	}
+}
